@@ -11,7 +11,7 @@
 - **Verified Operating System**
   * Windows / Visual Studio 2019
   * Create a project in Visual Studio and import _main.cpp_, _teamproject.cpp_, and _teamproject.h_. Then, compile and run _main.cpp_.
-___
+---
 ### Execution
 - **There are 6 menus that we can choose.**  
 
