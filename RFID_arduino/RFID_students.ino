@@ -1,3 +1,6 @@
+//코드 참고
+//https://diy-project.tistory.com/10
+
 #include <Keyboard.h>
 #include <SPI.h>    // RFID를 위한 SPI 라이브러
 #include <MFRC522.h>// RFID 라이브러
