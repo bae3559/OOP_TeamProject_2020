@@ -13,7 +13,7 @@
   * Create a project in Visual Studio and import _main.cpp_, _teamproject.cpp_, and _teamproject.h_. Then, compile and run _main.cpp_.
 
 ### Execution
-- There are 6 menus that we can choose.  
+- **There are 6 menus that we can choose.**  
 
   ```
   0. Register the RFID Card
@@ -24,13 +24,21 @@
   5. Exit the program
   ```
 
-- Example of excution
+- **Example of excution**
 
-  <u>1. Input the Room number</u>
+  ***1. Input the Room number***
   
-  <u>2. Enroll the RFID Card</u>
+     - If you run the project file successfully, then you can input the room number.
+    
+     - Then you can check the ‘Entry_logs’ folder in C:\ and ‘room_number.csv’, ‘students.csv’ file.
+    
+     - If there is already the students.csv file then we don’t make it again. 
+    
+
   
-  <u>3. Enter the Room</u>
+  <U>2. Enroll the RFID Card</U>
+  
+  <U>3. Enter the Room</U>
   
 
 
