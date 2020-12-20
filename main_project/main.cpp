@@ -18,7 +18,7 @@ int main() {
 		std::cout << "1. enter the room! " << std::endl;
 		std::cout << "2. exit the room!" << std::endl;
 		std::cout << "3. check current room status!" << std::endl;
-		std::cout << "4. check your enter time! and the students who is at the same time! " << std::endl;
+		std::cout << "4. check your enter time!" << std::endl;
 		std::cout << "5. exit the program" << std::endl;
 
 		std::cin >> r;
