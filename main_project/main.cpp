@@ -53,6 +53,9 @@ int main() {
 			std::cin >> your_id;
 			room.search(your_id);
 		}
+		else if(r==5){
+			break;
+		}
 		else {
 			continue;
 		}
