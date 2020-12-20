@@ -1,4 +1,4 @@
-# DGIST Oriented-Object Programming Team Project!
+# DGIST Object-Oriented Programming Team Project!
 ## 2020 Fall Semester Team Project - Digitalization of Entry Log List for Tracking COVID-19🦠
 
 ### Summary
