@@ -24,6 +24,15 @@
   5. Exit the program
   ```
 
+- Example of excution
+
+  <u>1. Input the Room number</u>
+  
+  <u>2. Enroll the RFID Card</u>
+  
+  <u>3. Enter the Room</u>
+  
+
 
 
 
