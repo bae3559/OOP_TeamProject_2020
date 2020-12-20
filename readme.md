@@ -11,7 +11,7 @@
 - **Verified Operating System**
   * Windows / Visual Studio 2019
   * Create a project in Visual Studio and import _main.cpp_, _teamproject.cpp_, and _teamproject.h_. Then, compile and run _main.cpp_.
-
+___
 ### Execution
 - **There are 6 menus that we can choose.**  
 
@@ -56,10 +56,9 @@
   ***7.	Check your Entering Time***
 
   - Also, you can check your entry time with entering your Student ID. 
-
+___
 ### Documents
 - [**Proposal**](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/Documents/proposal.pdf)
 
-- [**Final Report**](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/Documents/fianl_report.pdf)
+- [**Final Report**](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/Documents/final_report.pdf)
 
-### 1. [Proposal](https://github.com/bae3559/OOP_TeamProject_2020/tree/main/Proposal)
