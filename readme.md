@@ -58,6 +58,8 @@
   - Also, you can check your entry time with entering your Student ID. 
 
 ### Documents
-- **Proposal**
+- [**Proposal**](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/Documents/proposal.pdf)
 
-- **Final Report**
+- [**Final Report**](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/Documents/fianl_report.pdf)
+
+### 1. [Proposal](https://github.com/bae3559/OOP_TeamProject_2020/tree/main/Proposal)
