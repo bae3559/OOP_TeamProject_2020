@@ -14,12 +14,16 @@
 
 ### Execution
 - There are 6 menus that we can choose.  
-``` 0. Register the RFID Card
-1. Enter the room
-2. Exit the room
-3. Check current room status
-4. Check your enter time
-5. Exit the program ```
+  ``` 0. Register the RFID Card
+  1. Enter the room
+  2. Exit the room
+  3. Check current room status
+  4. Check your enter time
+  5. Exit the program ```
+
+
+
+
 
 
 ### 1. [Proposal](https://github.com/bae3559/OOP_TeamProject_2020/tree/main/Proposal)
