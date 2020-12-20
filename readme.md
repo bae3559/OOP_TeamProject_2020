@@ -28,22 +28,36 @@
 
   ***1. Input the Room number***
   
-     - If you run the project file successfully, then you can input the room number.
+  - If you run the project file successfully, then you can input the room number.
     
-     - Then you can check the ‘Entry_logs’ folder in C:\ and ‘room_number.csv’, ‘students.csv’ file.
+  - Then you can check the ‘Entry_logs’ folder in C:\ and ‘room_number.csv’, ‘students.csv’ file.
     
-     - If there is already the students.csv file then we don’t make it again. 
+  - If there is already the students.csv file then we don’t make it again. 
     
-
+  ***2. Enroll the RFID Card***
   
-  <U>2. Enroll the RFID Card</U>
+  - After choosing the menu 0, you have to input your student ID, Student name, and then just tag your Student Card to the RFID Reader module. The information that you enter is written in the students.csv file. Then, enrollment is finished.
   
-  <U>3. Enter the Room</U>
+  ***3. Enter the Room***
+  - When you want to enter the room, you just choose menu 1, and tag the card to the RFID reader. Then you have to input your temperature and you can check these information and entry time in ‘room_number.csv’ file.
   
+  ***4.	Check the Current Status of the Room***
+  
+  - If you choose menu 3, it shows the students who are in the room now.
 
+  ***5.	Exit the Room***
 
+  - When you want to exit the room, you have to choose menu 2. Same with enter, if you tag the card to the reader machine then the process is finished. After that, you can check that the exit time is written in the ‘room_number.csv’ file.
 
+  ***6.	Check the Current Status of the Room***
 
+  - You can check that the room is empty.
 
+  ***7.	Check your Entering Time***
 
-### 1. [Proposal](https://github.com/bae3559/OOP_TeamProject_2020/tree/main/Proposal)
+  - Also, you can check your entry time with entering your Student ID. 
+
+### Documents
+- **Proposal**
+
+- **Final Report**
