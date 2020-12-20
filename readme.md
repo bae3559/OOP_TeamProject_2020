@@ -3,5 +3,13 @@
 
 - **Team Member**
   * 강휘현, 류준상, 배현진, 심건희
+  
+- **Topic Description**
+  * 강의실 등의 DGIST 시설을 이용할 때, 학생증(혹은 사원증)을 태그하여 간편히 전자 출입명부를 작성하는 시스템
+
+- **Verified Operating System**
+  * Windows / Visual Studio 2019
+  * Create a project in Visual Studio and import main.cpp, teamproject.cpp, and teamproject.h(This can be found on the github link in 9.). Then, compile and run main.cpp.
+
 
 ### 1. [Proposal](https://github.com/bae3559/OOP_TeamProject_2020/tree/main/Proposal)
