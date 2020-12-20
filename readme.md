@@ -10,7 +10,7 @@
 
 - **Verified Operating System**
   * Windows / Visual Studio 2019
-  * Create a project in Visual Studio and import _main.cpp_, _teamproject.cpp_, and _teamproject.h_. Then, compile and run _main.cpp_.
+  * Create a project in Visual Studio and import `main.cpp`, `teamproject.cpp`, and `teamproject.h`. Then, compile and run `main.cpp`.
   
 - **About Code**
   * `main.cpp`, `teamproject.cpp`, `teamproject.h` in [main_project](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/main_project)
@@ -21,9 +21,9 @@
      - When the RFID card is tagged to the RFID module, the code reads the unique ID of the RFID card and transmits it through keyboard input. By default, it is built into the Arduino board, so users do not have to do any extra work, such as compile or run programs, when used. (Simply plug and play)
      - If you want to compile, open this file in the Arduino program and upload it to the Arduino board. The written code needs the MFRC522 library written by GithubCommunity.
 
-  * ***UI*** in [ui](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/ui)
-
-
+  * `UI files` in [ui](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/ui)
+     - 편리한 프로그램 사용을 위해 GUI 개발
+     - 오류로 인하여 현재 작동하지 않음
 ___
 ### Execution
 - **There are 6 menus that we can choose.**  
