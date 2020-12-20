@@ -9,7 +9,7 @@
 
 - **Verified Operating System**
   * Windows / Visual Studio 2019
-  * Create a project in Visual Studio and import main.cpp, teamproject.cpp, and teamproject.h(This can be found on the github link in 9.). Then, compile and run main.cpp.
+  * Create a project in Visual Studio and import _main.cpp_, _teamproject.cpp_, and _teamproject.h_. Then, compile and run _main.cpp_.
 
 
 ### 1. [Proposal](https://github.com/bae3559/OOP_TeamProject_2020/tree/main/Proposal)
