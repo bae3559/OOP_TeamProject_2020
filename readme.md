@@ -11,6 +11,19 @@
 - **Verified Operating System**
   * Windows / Visual Studio 2019
   * Create a project in Visual Studio and import _main.cpp_, _teamproject.cpp_, and _teamproject.h_. Then, compile and run _main.cpp_.
+  
+- **About Code**
+  * `main.cpp`, `teamproject.cpp`, `teamproject.h` in [main_project](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/main_project)
+     - 전자 출입명부의 메인 프로젝트
+
+  * `RFID_students.ino` in [RFID_arduino](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/RFID_arduino)
+     - RFID Reader was developed using Arduino Leonardo board and RC522 (RFID module). The Arduino Leonardo board is suitable for connection with our program because the computer recognizes it as an input device such as a keyboard and mouse.
+     - When the RFID card is tagged to the RFID module, the code reads the unique ID of the RFID card and transmits it through keyboard input. By default, it is built into the Arduino board, so users do not have to do any extra work, such as compile or run programs, when used. (Simply plug and play)
+     - If you want to compile, open this file in the Arduino program and upload it to the Arduino board. The written code needs the MFRC522 library written by GithubCommunity.
+
+  * ***UI*** in [ui](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/ui)
+
+
 ___
 ### Execution
 - **There are 6 menus that we can choose.**  
