@@ -70,6 +70,9 @@ ___
 
   - Also, you can check your entry time with entering your Student ID. 
 ___
+### Demo Video
+- [**Youtube**](https://youtu.be/uB9BNtRebn8)
+___
 ### Documents
 - [**Proposal**](https://github.com/bae3559/OOP_TeamProject_2020/blob/main/Documents/proposal.pdf)
 
